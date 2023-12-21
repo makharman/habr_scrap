@@ -1,0 +1,252 @@
+[
+  {
+    "company": "Банк ПСБ",
+    "job_title": "Архитектор решений",
+    "skills": "Архитектор программного обеспечения • Java • C#"
+  },
+  {
+    "company": "НТЦ «Автоматизация, измерения, инжиниринг»",
+    "job_title": "Java-разработчик",
+    "skills": "Бэкенд разработчик, Младший (Junior) • Java • Spring Boot • Java EE • PostgreSQL • Apache Kafka • Git • REST • SQL"
+  },
+  {
+    "company": "Магнит",
+    "job_title": "Ведущий Java разработчик",
+    "skills": "Бэкенд разработчик, Средний (Middle) • Java • Java Spring Framework • ООП • PostgreSQL • Базы данных • Docker • Высоконагруженные системы • Kubernetes • Hibernate • Spring Boot"
+  },
+  {
+    "company": "Bell Integrator",
+    "job_title": "Java-разработчик",
+    "skills": "Бэкенд разработчик, Старший (Senior) • Java • Java Spring Framework • Hibernate • Kubernetes • SQL"
+  },
+  {
+    "company": "МТС",
+    "job_title": "Эксперт по автоматизации тестирования",
+    "skills": "Инженер по автоматизации тестирования, Ведущий (Lead) • JavaScript • Linux • Git • Python • PostgreSQL • Java • Oracle • GitLab • SOAP • XML"
+  },
+  {
+    "company": "Холдинг Т1",
+    "job_title": "QA Automation Engineer",
+    "skills": "Инженер по автоматизации тестирования, Средний (Middle) • Java • SQL • Apache Kafka • Postman"
+  },
+  {
+    "company": "Яндекс",
+    "job_title": "Java разработчик в команду промо B2B",
+    "skills": "Бэкенд разработчик, Старший (Senior) • Java • Java Spring Framework • PostgreSQL"
+  },
+  {
+    "company": "VK",
+    "job_title": "Java разработчик (проект \"Игры\") в Одноклассники",
+    "skills": "Бэкенд разработчик • Java • SQL"
+  },
+  {
+    "company": "Банк ПСБ",
+    "job_title": "Программист Java",
+    "skills": "Бэкенд разработчик • Java • PostgreSQL"
+  },
+  {
+    "company": "Банк ПСБ",
+    "job_title": "Java developer (Online banking)",
+    "skills": "Бэкенд разработчик • Java • Spring Boot • Java Spring Framework"
+  },
+  {
+    "company": "Банк ПСБ",
+    "job_title": "Java-программист (ПСБ ЛАБ)",
+    "skills": "Бэкенд разработчик • Java • Java Spring Framework • PostgreSQL"
+  },
+  {
+    "company": "beeline",
+    "job_title": "Senior Java developer (highload)",
+    "skills": "Бэкенд разработчик • Java • Базы данных • PostgreSQL • Linux • ООП • Git • Docker • REST"
+  },
+  {
+    "company": "МТС",
+    "job_title": "QA Cluster Lead",
+    "skills": "Менеджер по обеспечению качества, Ведущий (Lead) • Java • Обеспечение качества • Автоматизация тестирования • Python • C++ • C# • Kubernetes"
+  },
+  {
+    "company": "СберТех",
+    "job_title": "Middle java разработчик (Platform V Paus)",
+    "skills": "Бэкенд разработчик, Средний (Middle) • Java • Java Spring Framework • Docker • Kubernetes"
+  },
+  {
+    "company": "СберСпасибо",
+    "job_title": "Эксперт по надежности (SRE-инженер)",
+    "skills": "Системный инженер, Старший (Senior) • Java • Linux • Oracle • Zabbix • ITIL • SRE"
+  },
+  {
+    "company": "Газпромбанк",
+    "job_title": "Java developer",
+    "skills": "Бэкенд разработчик, Старший (Senior) • Java • ООП • Java Spring Framework • SQL • Linux"
+  },
+  {
+    "company": "Газпромбанк",
+    "job_title": "Ведущий инженер разработки",
+    "skills": "Бэкенд разработчик, Средний (Middle) • Java"
+  },
+  {
+    "company": "Мир Plat.Form (НСПК)",
+    "job_title": "Инженер по автоматизации тестирования в Системы сертификации эмиссии",
+    "skills": "Инженер по автоматизации тестирования, Средний (Middle) • Java • Selenium • Selenide • REST Assured"
+  },
+  {
+    "company": "Мир Plat.Form (НСПК)",
+    "job_title": "Инженер-разработчик в отдел операционной аналитики и прикладного мониторинга",
+    "skills": "Бэкенд разработчик, Средний (Middle) • Java"
+  },
+  {
+    "company": "Мир Plat.Form (НСПК)",
+    "job_title": "Инженер по автоматизации тестирования в Клиринг",
+    "skills": "Инженер по автоматизации тестирования, Средний (Middle) • Java"
+  },
+  {
+    "company": "VK",
+    "job_title": "QA Automation (Web)/ VK ID",
+    "skills": "Инженер по автоматизации тестирования, Средний (Middle) • JavaScript • Playwright • Java • Git"
+  },
+  {
+    "company": "Bell Integrator",
+    "job_title": "Senior Java разработчик (банковское ПО)",
+    "skills": "Бэкенд разработчик, Старший (Senior) • Java • Java Spring Framework • Spring Boot • Микросервисная архитектура • Управление разработкой"
+  },
+  {
+    "company": "Bell Integrator",
+    "job_title": "Techlead Java (банковское ПО)",
+    "skills": "Бэкенд разработчик, Ведущий (Lead) • Java • Java Spring Framework • Spring Boot • Микросервисная архитектура • Управление разработкой"
+  },
+  {
+    "company": "Фабрика Информационных Технологий",
+    "job_title": "Java разработчик",
+    "skills": "Бэкенд разработчик, Старший (Senior) • Java • PostgreSQL • RabbitMQ • Docker"
+  },
+  {
+    "company": "TINKOFF",
+    "job_title": "QA-инженер (backend)",
+    "skills": "Инженер по обеспечению качества, Старший (Senior) • Java • Автоматизация тестирования • Обеспечение качества"
+  },
+  {
+    "company": "TINKOFF",
+    "job_title": "Инженер по автоматизации (Java)",
+    "skills": "Инженер по автоматизации тестирования, Старший (Senior) • Java • SQL • Git • Kotlin"
+  },
+  {
+    "company": "TINKOFF",
+    "job_title": "QA-инженер (mobile)",
+    "skills": "Инженер по обеспечению качества, Старший (Senior) • Java • Kotlin • Тестирование мобильных приложений"
+  },
+  {
+    "company": "VK",
+    "job_title": "MLOps в команду VK Видео",
+    "skills": "ML разработчик, Старший (Senior) • Python • PHP • Java"
+  },
+  {
+    "company": "Совкомбанк Технологии",
+    "job_title": "Программист Java",
+    "skills": "Бэкенд разработчик • Java • Java Spring Framework • Hibernate"
+  },
+  {
+    "company": "Bell Integrator",
+    "job_title": "Системный аналитик",
+    "skills": "Системный аналитик • SQL • Java • Apache Kafka"
+  },
+  {
+    "company": "ЛАНИТ",
+    "job_title": "Инженер по контролю качества / QA Fullstack (Java)",
+    "skills": "Инженер по обеспечению качества, Средний (Middle) • Java • SQL • Ручное тестирование • Тестирование API • Нагрузочное тестирование • Автоматизация тестирования"
+  },
+  {
+    "company": "Leantech",
+    "job_title": "Java developer /  Java разработчик",
+    "skills": "Бэкенд разработчик, Младший (Junior) • Java • PostgreSQL • Java Spring Framework • Spring Boot • MySQL • ООП • RabbitMQ • Apache Kafka"
+  },
+  {
+    "company": "МТС",
+    "job_title": "Middle Java developer [Мой Поиск]",
+    "skills": "Бэкенд разработчик, Средний (Middle) • JavaScript • Java • Git"
+  },
+  {
+    "company": "АО «ГНИВЦ»",
+    "job_title": "Java Team Lead",
+    "skills": "Бэкенд разработчик, Ведущий (Lead) • Управление людьми • Spring Boot • Java • PostgreSQL • Apache Kafka • Java Spring Framework • Высоконагруженные системы • Проектирование архитектуры приложений • RabbitMQ • SQL"
+  },
+  {
+    "company": "АО «ГНИВЦ»",
+    "job_title": "Senior Java-разработчик",
+    "skills": "Бэкенд разработчик, Ведущий (Lead) • Управление людьми • Spring Boot • Java • PostgreSQL • Apache Kafka • Java Spring Framework • Высоконагруженные системы • Проектирование архитектуры приложений • RabbitMQ • SQL"
+  },
+  {
+    "company": "Яндекс",
+    "job_title": "Java-разработчик в команду биллинга Маркета",
+    "skills": "Бэкенд разработчик • Java • MySQL • ООП • PostgreSQL • Базы данных • Java Spring Framework • Git"
+  },
+  {
+    "company": "Мир Plat.Form (НСПК)",
+    "job_title": "Инженер по автоматизации тестирования в Систему быстрых платежей",
+    "skills": "Инженер по автоматизации тестирования • Java • Высоконагруженные системы • ООП"
+  },
+  {
+    "company": "Банк ВТБ",
+    "job_title": "Архитектор омниканальной платформы",
+    "skills": "Архитектор программного обеспечения • Java • Java EE"
+  },
+  {
+    "company": "СберСпасибо",
+    "job_title": "Security-инженер",
+    "skills": "Инженер по безопасности, Средний (Middle) • DevSecOps • SAST/DAST • CI/CD • Java"
+  },
+  {
+    "company": "Action tech",
+    "job_title": "QA инженер (java/kotlin)",
+    "skills": "Инженер по обеспечению качества • Kotlin • SQL • Автоматизация тестирования • PostgreSQL • Тестирование ПО • Функциональное тестирование • Selenium • Java"
+  },
+  {
+    "company": "ГК «ФСК»",
+    "job_title": "Bitrix-разработчик",
+    "skills": "Веб-разработчик, Стажёр (Intern) • CMS «1С-Битрикс» • PHP • MySQL • SQL • Git • Django • Python • Java"
+  },
+  {
+    "company": "АО «ГНИВЦ»",
+    "job_title": "Системный архитектор ПО",
+    "skills": "Архитектор программного обеспечения, Старший (Senior) • C# • PostgreSQL • Apache Kafka • Базы данных • Java"
+  },
+  {
+    "company": "Bell Integrator",
+    "job_title": "Java Lead Developer",
+    "skills": "Бэкенд разработчик, Ведущий (Lead) • Java • Spring Boot • Docker • Java Spring Framework • SQL"
+  },
+  {
+    "company": "Bell Integrator",
+    "job_title": "Lead Java",
+    "skills": "Бэкенд разработчик, Ведущий (Lead) • Java • Java Spring Framework"
+  },
+  {
+    "company": "Bell Integrator",
+    "job_title": "Lead Java",
+    "skills": "Бэкенд разработчик, Ведущий (Lead) • Java • Docker • PHP • SQL • PostgreSQL • REST • Java Spring Framework • Apache Kafka • Hibernate"
+  },
+  {
+    "company": "Bell Integrator",
+    "job_title": "Lead Java",
+    "skills": "Бэкенд разработчик, Ведущий (Lead) • Java • Java Spring Framework"
+  },
+  {
+    "company": "Bell Integrator",
+    "job_title": "Lead Java",
+    "skills": "Бэкенд разработчик, Ведущий (Lead) • Java • Java Spring Framework • Hibernate • Apache Kafka • Docker • REST • SQL • PostgreSQL"
+  },
+  {
+    "company": "Bell Integrator",
+    "job_title": "Lead Java",
+    "skills": "Бэкенд разработчик, Ведущий (Lead) • Java • Java Spring Framework"
+  },
+  {
+    "company": "Почта Банк",
+    "job_title": "Главный разработчик Genesys",
+    "skills": "Инженер встраиваемых систем, Старший (Senior) • JavaScript • SQL • Java • SIP • SOAP"
+  },
+  {
+    "company": "МТС",
+    "job_title": "Архитектор решений [Logistic Platform]",
+    "skills": "Архитектор программного обеспечения, Средний (Middle) • Java • Golang • Kubernetes • Высоконагруженные системы"
+  }
+]
